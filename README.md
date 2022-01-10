@@ -1,4 +1,4 @@
-# ecommerce-shop-redux
+# ecommerce-shop useReducer + Context Api Version
 
 ### live preview
 - https://one-curve.surge.sh
