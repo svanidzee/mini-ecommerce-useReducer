@@ -2,6 +2,7 @@
 
 ### live preview
 - https://https://one-curve.surge.sh
+- https://one-curve.surge.sh
 
 
 ### Stack:
