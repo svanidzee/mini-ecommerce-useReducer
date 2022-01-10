@@ -1,7 +1,7 @@
 # ecommerce-shop-redux
 
 ### live preview
-- https://https://one-curve.surge.sh/
+- https://https://one-curve.surge.sh
 
 
 ### Stack:
